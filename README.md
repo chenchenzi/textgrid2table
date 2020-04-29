@@ -14,6 +14,8 @@ Alternatively, you can use the second script, which is modified from D. Gibbon's
 ## Demonstration
 It is fairly straightforward to run them.
 In your Terminal, first navigate to the `/textgrid2table/` directory.
+
+If you have:
 - [x] Long form `.Textgrid`
 - [x] Interested in one particular tier
 - [x] Installed `praat-textgrids 1.3.1`
